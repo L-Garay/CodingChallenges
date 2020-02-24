@@ -18,6 +18,16 @@
             <p>Create a function that returns true if an integer is evenly divisible by 5, and false otherwise.</p>
             <img src="../assets/solutions/third.png" alt />
           </li>
+          <li>
+            <p>(2/24/2020 || Javascript)</p>
+            <p>Create a function that returns true when num1 is equal to num2; otherwise return false.</p>
+            <img src="../assets/solutions/fourth.png" alt />
+          </li>
+          <li>
+            <p>(2/24/2020 || Javascript)</p>
+            <p>Create a function that takes height and width and finds the perimeter of a rectangle.</p>
+            <img src="../assets/solutions/fifth.png" alt />
+          </li>
         </ol>
       </div>
     </div>
