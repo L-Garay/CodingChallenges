@@ -28,6 +28,36 @@
             <p>Create a function that takes height and width and finds the perimeter of a rectangle.</p>
             <img src="../assets/solutions/fifth.png" alt />
           </li>
+          <li>
+            <p>(2/24/2020 || Javascript)</p>
+            <p>Create a function that takes a number as an argument and returns "even" for even numbers and "odd" for odd numbers.</p>
+            <img src="../assets/solutions/fifth.png" alt />
+          </li>
+          <li>
+            <p>(2/24/2020 || Javascript)</p>
+            <p>Create a function that returns the number of frames shown in a given number of minutes for a certain FPS.</p>
+            <img src="../assets/solutions/fifth.png" alt />
+          </li>
+          <li>
+            <p>(2/24/2020 || Javascript)</p>
+            <p>Create a function that takes a string (a random name). If the last character of the name is an "n", return true, otherwise return false. **str.endsWith(charToSearchFor)**</p>
+            <img src="../assets/solutions/fifth.png" alt />
+          </li>
+          <li>
+            <p>(2/24/2020 || Javascript)</p>
+            <p>Create a function that takes in three arguments (prob, prize, pay) and returns true if prob * prize > pay; otherwise return false.</p>
+            <img src="../assets/solutions/fifth.png" alt />
+          </li>
+          <li>
+            <p>(2/24/2020 || Javascript)</p>
+            <p>Given two strings, firstName and lastName, return a single string in the format "last, first".</p>
+            <img src="../assets/solutions/fifth.png" alt />
+          </li>
+          <li>
+            <p>(2/24/2020 || Javascript)</p>
+            <p>Create a function that takes an object argument sizes (contains width, length, height keys) and returns the volume of the box.</p>
+            <img src="../assets/solutions/fifth.png" alt />
+          </li>
         </ol>
       </div>
     </div>
