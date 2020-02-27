@@ -59,6 +59,26 @@
             <p>Create a function that takes an object argument sizes (contains width, length, height keys) and returns the volume of the box.</p>
             <img src="../assets/solutions/eleventh.png" alt />
           </li>
+          <li class="three">
+            <p>(2/26/2020 || Javascript)</p>
+            <p>Create a function that finds the index of a given item.</p>
+            <img src="../assets/solutions/twelth.png" alt />
+          </li>
+          <li class="three">
+            <p>(2/26/2020 || Javascript)</p>
+            <p>Write a function to check if an array contains a particular number.</p>
+            <img src="../assets/solutions/thirteenth.png" alt />
+          </li>
+          <li class="three">
+            <p>(2/26/2020 || Javascript)</p>
+            <p>Write a function that returns the length of a string.</p>
+            <img src="../assets/solutions/fourteenth.png" alt />
+          </li>
+          <li class="three">
+            <p>(2/26/2020 || Javascript)</p>
+            <p>Create a function that takes an array of numbers and returns the smallest number in the set.</p>
+            <img src="../assets/solutions/fithteenth.png" alt />
+          </li>
         </ol>
       </div>
     </div>
