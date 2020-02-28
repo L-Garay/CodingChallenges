@@ -79,22 +79,22 @@
             <p>Create a function that takes an array of numbers and returns the smallest number in the set.</p>
             <img src="../assets/solutions/fithteenth.png" alt />
           </li>
-          <li class="fourth">
+          <li class="four">
             <p>(2/28/2020 || Javascript)</p>
             <p>Create a function that takes a number (from 1 - 60) and returns a corresponding string of hyphens.</p>
             <img src="../assets/solutions/sixteenth.png" alt />
           </li>
-          <li class="fourth">
+          <li class="four">
             <p>(2/28/2020 || Javascript)</p>
             <p>Create a function that takes an array of numbers and return the first and last elements as a new array.</p>
             <img src="../assets/solutions/seventeenth.png" alt />
           </li>
-          <li class="fourth">
+          <li class="four">
             <p>(2/28/2020 || Javascript)</p>
             <p>Create a function that takes two strings and returns true if the first string ends with the second string; otherwise return false.</p>
             <img src="../assets/solutions/eighteenth.png" alt />
           </li>
-          <li class="fourth">
+          <li class="four">
             <p>(2/28/2020 || Javascript)</p>
             <p>Create a function that takes a string of lowercase characters and returns that string reversed and in upper case.</p>
             <img src="../assets/solutions/nineteenth.png" alt />
@@ -132,5 +132,13 @@ ol li {
 .two {
   border: 1pt solid red;
   background-color: lightcoral;
+}
+.three {
+  border: 1pt solid green;
+  background-color: rgba(35, 182, 35, 0.788);
+}
+.four {
+  border: 1pt solid orange;
+  background-color: rgba(240, 168, 35, 0.842);
 }
 </style>
