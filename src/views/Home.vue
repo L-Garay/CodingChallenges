@@ -99,6 +99,16 @@
             <p>Create a function that takes a string of lowercase characters and returns that string reversed and in upper case.</p>
             <img src="../assets/solutions/nineteenth.png" alt />
           </li>
+          <li class="five">
+            <p>(3/02/2020 || Javascript)</p>
+            <p>Write a function that takes a string of one or more words as an argument and returns the same string, but with all five or more letter words reversed. Strings passed in will consist of only letters and spaces. Spaces will be included only when more than one word is present.</p>
+            <img src="../assets/solutions/twenty.png" alt />
+          </li>
+          <li class="five">
+            <p>(3/02/2020 || Javascript)</p>
+            <p>Create a function that takes an array of students and returns an array of student names.</p>
+            <img src="../assets/solutions/twentyone.png" alt />
+          </li>
         </ol>
       </div>
     </div>
@@ -140,5 +150,9 @@ ol li {
 .four {
   border: 1pt solid orange;
   background-color: rgba(240, 168, 35, 0.842);
+}
+.five {
+  border: 1pt solid purple;
+  background-color: rgb(161, 67, 161);
 }
 </style>
