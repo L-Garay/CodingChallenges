@@ -105,22 +105,22 @@
             <img src="../assets/solutions/twenty.png" alt />
           </li>
           <li class="six">
-            <p>(3/02/2020 || Javascript)</p>
+            <p>(3/04/2020 || Javascript)</p>
             <p>Create a function that takes a string and returns the word count. The string will be a sentence.</p>
-            <img src="../assets/solutions/twentyone.png" alt />
+            <img src="../assets/solutions/twentytwo.png" alt />
           </li>
           <li class="six">
-            <p>(3/02/2020 || Javascript)</p>
+            <p>(3/04/2020 || Javascript)</p>
             <p>Create a function to remove all null values from an array.</p>
             <img src="../assets/solutions/twentythree.png" alt />
           </li>
           <li class="six">
-            <p>(3/02/2020 || Javascript)</p>
+            <p>(3/04/2020 || Javascript)</p>
             <p>Create a function that takes a string as its argument and returns the string in reversed order.</p>
             <img src="../assets/solutions/twentyfour.png" alt />
           </li>
           <li class="six">
-            <p>(3/02/2020 || Javascript)</p>
+            <p>(3/04/2020 || Javascript)</p>
             <p>Given an integer, return "odd" if the sum of all odd digits is greater than the sum of all even digits. Return "even" if the sum of even digits is greater than the sum of odd digits, and "equal" if both sums are the same.</p>
             <img src="../assets/solutions/twentyfive.png" alt />
           </li>
@@ -168,6 +168,10 @@ ol li {
 }
 .five {
   border: 1pt solid purple;
-  background-color: rgb(161, 67, 161);
+  background-color: rgba(161, 67, 161, 0.664);
+}
+.six {
+  border: 1pt solid yellow;
+  background-color: rgba(255, 252, 66, 0.678);
 }
 </style>
