@@ -146,7 +146,7 @@
           </li>
           <li class="seven">
             <p>(3/07/2020 || C#)</p>
-            <p>Given two strings, firstName and lastName, return a single string in the format "last, first".</p>
+            <p>Create a function that accepts an array and returns the last item in the array. The array can contain any of C#'s primitive data types.</p>
             <img src="../assets/solutions/twentyfive.png" alt />
           </li>
         </ol>
