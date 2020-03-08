@@ -139,6 +139,16 @@
             <p>Given two strings, firstName and lastName, return a single string in the format "last, first".</p>
             <img src="../assets/solutions/twentyfive.png" alt />
           </li>
+          <li class="seven">
+            <p>(3/07/2020 || C#)</p>
+            <p>Create a function that takes two strings as arguments and return either true or false depending on whether the total number of characters in the first string is equal to the total number of characters in the second string.</p>
+            <img src="../assets/solutions/twentyfive.png" alt />
+          </li>
+          <li class="seven">
+            <p>(3/07/2020 || C#)</p>
+            <p>Given two strings, firstName and lastName, return a single string in the format "last, first".</p>
+            <img src="../assets/solutions/twentyfive.png" alt />
+          </li>
         </ol>
       </div>
     </div>
