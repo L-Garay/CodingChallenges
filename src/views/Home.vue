@@ -124,6 +124,21 @@
             <p>Given an integer, return "odd" if the sum of all odd digits is greater than the sum of all even digits. Return "even" if the sum of even digits is greater than the sum of odd digits, and "equal" if both sums are the same.</p>
             <img src="../assets/solutions/twentyfive.png" alt />
           </li>
+          <li class="seven">
+            <p>(3/07/2020 || C#)</p>
+            <p>Create a function that takes an array of hurdle heights and a jumper's jump height, and determine whether or not the hurdler can clear all the hurdles. A hurdler can clear a hurdle if their jump height is greater than or equal to the hurdle height. Return true for the edge case of an empty array of hurdles. (Zero hurdles means that any jump height can clear them).</p>
+            <img src="../assets/solutions/twentyfive.png" alt />
+          </li>
+          <li class="seven">
+            <p>(3/07/2020 || C#)</p>
+            <p>Given an integer, return "odd" if the sum of all odd digits is greater than the sum of all even digits. Return "even" if the sum of even digits is greater than the sum of odd digits, and "equal" if both sums are the same.</p>
+            <img src="../assets/solutions/twentyfive.png" alt />
+          </li>
+          <li class="seven">
+            <p>(3/07/2020 || C#)</p>
+            <p>Given an integer, return "odd" if the sum of all odd digits is greater than the sum of all even digits. Return "even" if the sum of even digits is greater than the sum of odd digits, and "equal" if both sums are the same.</p>
+            <img src="../assets/solutions/twentyfive.png" alt />
+          </li>
         </ol>
       </div>
     </div>
