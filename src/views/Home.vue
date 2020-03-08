@@ -127,27 +127,27 @@
           <li class="seven">
             <p>(3/07/2020 || C#)</p>
             <p>Create a function that takes an array of hurdle heights and a jumper's jump height, and determine whether or not the hurdler can clear all the hurdles. A hurdler can clear a hurdle if their jump height is greater than or equal to the hurdle height. Return true for the edge case of an empty array of hurdles. (Zero hurdles means that any jump height can clear them).</p>
-            <img src="../assets/solutions/twentyfive.png" alt />
+            <img src="../assets/solutions/twentysix.png" alt />
           </li>
           <li class="seven">
             <p>(3/07/2020 || C#)</p>
             <p>Create a function that counts the number of syllables a word has. Each syllable is separated with a dash -.</p>
-            <img src="../assets/solutions/twentyfive.png" alt />
+            <img src="../assets/solutions/twentyseven.png" alt />
           </li>
           <li class="seven">
             <p>(3/07/2020 || C#)</p>
             <p>Given two strings, firstName and lastName, return a single string in the format "last, first".</p>
-            <img src="../assets/solutions/twentyfive.png" alt />
+            <img src="../assets/solutions/twentyeight.png" alt />
           </li>
           <li class="seven">
             <p>(3/07/2020 || C#)</p>
             <p>Create a function that takes two strings as arguments and return either true or false depending on whether the total number of characters in the first string is equal to the total number of characters in the second string.</p>
-            <img src="../assets/solutions/twentyfive.png" alt />
+            <img src="../assets/solutions/twentynine.png" alt />
           </li>
           <li class="seven">
             <p>(3/07/2020 || C#)</p>
             <p>Create a function that accepts an array and returns the last item in the array. The array can contain any of C#'s primitive data types.</p>
-            <img src="../assets/solutions/twentyfive.png" alt />
+            <img src="../assets/solutions/thirty.png" alt />
           </li>
         </ol>
       </div>
