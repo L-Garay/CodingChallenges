@@ -166,7 +166,7 @@
           </li>
           <li class="eight">
             <p>(3/08/2020 || C#)</p>
-            <p>Create a function to multiply all of the values in an array by the amount of values in the given array.</p>
+            <p>Create a function that takes an integer and returns the factorial of that integer. That is, the integer multiplied by all positive lower integers.</p>
             <img src="../assets/solutions/thirty.png" alt />
           </li>
         </ol>
