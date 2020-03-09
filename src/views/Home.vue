@@ -161,7 +161,7 @@
           </li>
           <li class="eight">
             <p>(3/08/2020 || C#)</p>
-            <p>Create a function to multiply all of the values in an array by the amount of values in the given array.</p>
+            <p>Create a function that takes an array and a string as arguments and return the index of the string.</p>
             <img src="../assets/solutions/thirty.png" alt />
           </li>
           <li class="eight">
