@@ -154,6 +154,21 @@
             <p>Create a function to multiply all of the values in an array by the amount of values in the given array.</p>
             <img src="../assets/solutions/thirty.png" alt />
           </li>
+          <li class="eight">
+            <p>(3/08/2020 || C#)</p>
+            <p>Create a function that takes a character and a string as arguments and returns the number of times the character is found in the string.</p>
+            <img src="../assets/solutions/thirty.png" alt />
+          </li>
+          <li class="eight">
+            <p>(3/08/2020 || C#)</p>
+            <p>Create a function to multiply all of the values in an array by the amount of values in the given array.</p>
+            <img src="../assets/solutions/thirty.png" alt />
+          </li>
+          <li class="eight">
+            <p>(3/08/2020 || C#)</p>
+            <p>Create a function to multiply all of the values in an array by the amount of values in the given array.</p>
+            <img src="../assets/solutions/thirty.png" alt />
+          </li>
         </ol>
       </div>
     </div>
