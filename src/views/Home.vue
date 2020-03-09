@@ -149,6 +149,11 @@
             <p>Create a function that accepts an array and returns the last item in the array. The array can contain any of C#'s primitive data types.</p>
             <img src="../assets/solutions/thirty.png" alt />
           </li>
+          <li class="eight">
+            <p>(3/08/2020 || C#)</p>
+            <p>Create a function to multiply all of the values in an array by the amount of values in the given array.</p>
+            <img src="../assets/solutions/thirty.png" alt />
+          </li>
         </ol>
       </div>
     </div>
